@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0">
 
-	<channel>
-		<title>EL tiempo </title>
-		<link> </link>
-		<item>
-		  <title>El tiempo</title>
-		  <link>https://www.tiempo.es/</link>
-		  <description>Previsión del tiempo de los próximos días</description>
-		</item>
-	</channel>
+<channel>
+
+  <title>Noticias</title>
+  <link>https://www.tiempo.es/</link>
+  <description>Tiempo</description>
+  <item>
+    <title>El tiempo en Meco</title>
+    <link>https://www.tiempo.es/madrid-meco-es0ma0082.html</link>
+    <description>Tiempo en loeches</description>
+  </item>
+
+</channel>
+
 </rss>
