@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+
+<channel>
+
+  <title>Noticias</title>
+  <link>https://www.tiempo.es/</link>
+  <description>Tiempo</description>
+  <item>
+    <title>El tiempo de Loeches</title>
+    <link>https://www.tiempo.es/madrid-loeches-es0ma0075.html</link>
+    <description>Tiempo en loeches</description>
+  </item>
+
+  <item>
+    <title>Noticia del Gato con patas largas</title>
+    <link>https://elpais.com/elpais/2018/11/26/videos/1543255950_289437.html</link>
+    <description>Muy largas...</description>
+  </item>
+
+</channel>
+
+</rss>
