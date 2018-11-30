@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <feed xml:lang="es-es" xmlns="http://www.w3.org/2005/Atom">
 <title type="text">El tiempo en Atom</title>
 <id>https://victoreugenio.github.io</id>
 <link type="application/atom+xml" href="https://victoreugenio.github.io/Pagina_rss" rel="self"/>
+<link rel="alternate" type="text/html" href="https://victoreugenio.github.io" />
+
 
 <author>
 <updated>2018-11-30T01:29:06Z</updated>
